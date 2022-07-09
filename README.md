@@ -12,7 +12,7 @@ In order to select the landfill area, 7 parameters were considered. These are:
 
 Last but not least, there are also some limitations regarding the area of the proposed landfill. Its area should be larger than 3,000 m2; a  smaller area is not sufficient for the plants required.
 
-** Methodology **
+**Methodology**
 
 Firstly, study area was created via the coastline provided. The line was converted to a polygon. Secondly, buffers created for the criteria needed. Then, buffers were merged to find total excluded area. The next step was to run 'erase' command so that regions which are not suitable for landfill location can be eliminated. The last step was to run 'clip' command so that only areas whose distance from road network (whose type is not residential) is less than 100m can be selected. This decreased even further the suitable regions. 
 
