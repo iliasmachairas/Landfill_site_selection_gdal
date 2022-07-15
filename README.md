@@ -1,7 +1,7 @@
 # Landfill_site_selection_gdal
 Landfill site selection for Milos island using a host of parameters such as land-use, road network, conservation areas
 
-Finding the most suitable location where a landfill can be located is a complex task which includes GIS analysis. It is ofetn related to many parameters such as land-use, road network, conservation areas. The current study area is Milos island. 
+Finding the most suitable location where a landfill can be located is a complex task which includes GIS analysis. It is often related to many parameters such as land-use, road network, conservation areas. The current study area is Milos island. 
 
 In order to select the landfill area, 7 parameters were considered. These are:
 * distance from coastline (further than 300 m),
@@ -10,7 +10,7 @@ In order to select the landfill area, 7 parameters were considered. These are:
 * the land use should not be forest or mixed forest,
 * land fill should not be further from a buffer (300 m) of roads whose type is not residential.
 
-Last but not least, there are also some limitations regarding the area of the proposed landfill. Its area should be larger than 3,000 m2; a  smaller area is not sufficient for the plants required.
+Last but not least, there are also some limitations regarding the area of the proposed landfill. Its area should be larger than 1,000,000 m2; a  smaller area is not sufficient for the plants required.
 
 **Methodology**
 
