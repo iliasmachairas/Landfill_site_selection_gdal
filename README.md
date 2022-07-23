@@ -8,7 +8,7 @@ In order to select the landfill area, the following parameters were considered:
 * distance from coastline (further than 300 m),
 * distance from conservation areas ("Natura" regions) (further than 800 m),
 * the land use should not be forest or mixed forest,
-* land fill should not be further from a buffer (300 m) of roads whose type is secondary or tertiary.
+* land fill should not be further from a buffer (400 m) of roads whose type is secondary or tertiary.
 
 Last but not least, there are also some limitations regarding the area of the proposed landfill. Its area should be larger than 1,000,000 m2; a  smaller area is not sufficient for the plants required.
 
